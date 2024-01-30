@@ -1,0 +1,27 @@
+def plus(a = 0,b = 0):
+  print(a+b)
+  
+def minus(a = 0,b = 0):
+  print(a-b)
+  
+def multiple(a = 0,b = 0):
+  print(a*b)
+  
+def divide(a = 0,b = 1):
+  print(a/b)
+  
+def power(a = 1,b = 0):
+  print(a**b)
+
+
+plus(1,2)
+minus(1,2)
+multiple(1,2)
+divide(1,2)
+power(1,2)
+
+plus()
+minus()
+multiple()
+divide()
+power()
